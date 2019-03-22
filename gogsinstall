@@ -68,6 +68,9 @@ sudo systemctl status gogs
 HOZD LÉTRE
 |
 |
+nano app.ini
+
+
 # 5. A  /home/git/custom/conf/app.ini fájl tartalma:
 #############################################/home/git/custom/conf/app.ini fájl kezdete
 
