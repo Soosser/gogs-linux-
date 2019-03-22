@@ -132,6 +132,6 @@ chmod ugo+rw /home/git/custom/conf/app.ini
 
 SSH kulcs létrehozása a lerántáshoz:
 ssh-keygen
-cat /home/d13/.ssh/id_rsa.public
+cat /home/d13/.ssh/id_rsa.pub
 
 
